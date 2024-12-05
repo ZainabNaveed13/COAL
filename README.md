@@ -12,4 +12,20 @@ Welcome to **coal**, a repository dedicated to assembly-level programming for th
   - System calls
 - Practical programs demonstrating real-world use cases.
 
+## 💻 Prerequisites
+To assemble and run the code in this repository, you'll need:
+1. An assembler like **NASM** (Netwide Assembler).
+   - Install it using:
+     ```bash
+     sudo apt install nasm      # On Linux
+     brew install nasm          # On macOS
+     ```
+2. A compatible emulator or debugger like **GDB** or **QEMU** for execution and debugging.
+
+## 🚀 Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/coal.git
+   cd coal
+
 
